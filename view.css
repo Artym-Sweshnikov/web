@@ -18,10 +18,3 @@
    -moz-border-radius-topright: 50px;
    border-top-right-radius: 50px;
 }
-
-#Top_Left {
-   height: 65px;
-   width:160px;
-   -moz-border-radius-topleft: 50px;
-   border-top-left-radius: 50px;
-}
